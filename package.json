@@ -1,0 +1,23 @@
+{
+  "name": "confettize",
+  "version": "0.0.1",
+  "description": "put confetti in elements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evinism/confettize.git"
+  },
+  "keywords": [
+    "confetti",
+    "dom"
+  ],
+  "author": "Evin Sellin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evinism/confettize/issues"
+  },
+  "homepage": "https://github.com/evinism/confettize#readme"
+}
